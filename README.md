@@ -1,6 +1,6 @@
 # MA_Thesis
 
-Dieses Repository beinhaltet die Skripte zu folgendem Teil meiner Master-Thesis:
+Dieses Repository beinhaltet die Skripte zu folgendem Teil meiner Master-Thesis (2020):
 
 Die in rudimentärem XML ausgezeichneten Bundestagsprotokolle der Jahre 1949-2017 wurden zunächst heruntergeladen und kurz analysiert (Längen, Parteien etc.).
 
