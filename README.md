@@ -8,7 +8,7 @@ Mittels eigens erstelltem XML-Schema und regulären Ausdrücken wurden alle vorl
 
 Die ausgezeichneten Protokolle wurden darauffolgend in verschiedene Unterkorpora sortiert (Parteien und Jahre) und mittels NLP-Verfahren (Natural Language Processing) weiterverarbeitet.
 
-Anschließend wurden Methoden des Topic Modelings und der Word Embeddings genutzt, um einen automatisierten Überblick über Themen der Parteien und Wahlperioden zu erlangen sowie einen Einblick in mögliche politische Positionierungen.
+Anschließend wurden Methoden des Topic Modelings und der Word Embeddings genutzt, um einen automatisierten Überblick über Themen der Parteien und Wahlperioden sowie einen Einblick in mögliche politische Positionierungen zu erlangen.
 
 
 
