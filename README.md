@@ -2,7 +2,7 @@
 
 Dieses Repository beinhaltet die Skripte zu folgendem Teil meiner Master-Thesis:
 
-Die in rudimentärem XML ausgezeichneten Bundestagsprotokolle der Jahre 1949-2017 wurden zunächst heruntergeladen und kurz analysiert (Längen. Parteien etc.).
+Die in rudimentärem XML ausgezeichneten Bundestagsprotokolle der Jahre 1949-2017 wurden zunächst heruntergeladen und kurz analysiert (Längen, Parteien etc.).
 
 Mittels eigens erstelltem XML-Schema und regulären Ausdrücken wurden alle vorliegenden Protokolle mit Markup versehen, sodass jedes Protokoll hinterher mit einer XML-Auszeichnung nach Datum, Inhaltsteilen, Sprecherbeiträgen samt Sprechername, Funktion/Partei existiert und somit semantisch durchsuchbar ist.
 
